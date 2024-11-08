@@ -5,6 +5,8 @@
  */
 package aplikasipenghitungkata;
 
+import javax.swing.SwingUtilities;
+
 /**
  *
  * @author User
@@ -15,7 +17,6 @@ public class AplikasiPenghitungKata {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
     }
     
 }
