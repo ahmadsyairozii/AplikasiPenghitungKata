@@ -26,7 +26,7 @@ Matkul : Pemrogramman Berbasis Objek 2<br>
 5. Selanjutnya kita pencet buttonCari maka akan terdeteksi dimana saya kata yang memuat kata "and" yang berada di JTextArea1 ditandai dengan warna pink. <br> 
 ![App Screenshot](https://github.com/user-attachments/assets/5a938c80-b687-4ef8-ba83-ead6a0e4e39c)<br>
 
-6. Lalu variasi yang selanjutnya untuk menyimpan teks, kita pencet buttonSimpan maka kita disuruh meletakkan letak file tersebut terserah dimana saya letaknya. <br> 
+6. Lalu variasi yang selanjutnya untuk menyimpan teks, kita pencet buttonSimpan maka kita disuruh meletakkan letak file tersebut terserah dimana saja letaknya. <br> 
 ![App Screenshot](https://github.com/user-attachments/assets/70e6e918-b59f-4e51-b584-5ec36e583b90)
 ![App Screenshot](https://github.com/user-attachments/assets/c9657643-b1c0-460c-995d-f46ca81f3333)<br>
 
